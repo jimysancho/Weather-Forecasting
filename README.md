@@ -15,7 +15,7 @@ In this folder there are two jupyter files:
 
 2. Clime forecasting. Although the application is the same as in the previous file, predicting the next value of a given sequence, in this notebook I have loaded and preprocess the data in order to make predictions on the temperature. It also includes a comparison with the TensorFlow LSTM model in order to see how well the scratch implementation works. 
 
-## Final Results on the Jena dataset
+# Final Results on the Jena dataset
 
 ![models_comparison](https://user-images.githubusercontent.com/105709376/209570090-a0114569-1c97-4786-adfb-1353bbede7cb.png)
 
